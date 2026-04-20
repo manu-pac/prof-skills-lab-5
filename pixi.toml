@@ -1,0 +1,24 @@
+[workspace]
+authors = ["manu-pac <manuela@stoix.dev>"]
+channels = ["conda-forge"]
+name = "prof_skills_lab_4"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.4,<3.15"
+
+[pypi-dependencies]
+dvc = ">=3.67.1, <4"
+transformers = ">=5.5.4, <6"
+torch = ">=2.11.0, <3"
+torchaudio = ">=2.11.0, <3"
+librosa = ">=0.11.0, <0.12"
+soundfile = ">=0.13.1, <0.14"
+pandas = ">=3.0.2, <4"
+numpy = ">=2.4.4, <3"
+scipy = ">=1.17.1, <2"
+matplotlib = ">=3.10.8, <4"
+seaborn = ">=0.13.2, <0.14"
