@@ -1,0 +1,6 @@
+outs:
+- md5: e295a0af2cab1cbc4d65701885169fb3.dir
+  size: 738309534
+  nfiles: 5930
+  hash: md5
+  path: ru-fr_interference
