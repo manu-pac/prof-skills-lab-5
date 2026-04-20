@@ -1,0 +1,1368 @@
+speaker,L1,word,wav_path,start,end
+AB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp14.wav,1.04,1.89189
+AB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp26.wav,1.15923,1.96423
+AB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp3.wav,1.42,2.39
+AB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp41.wav,0.72,1.58132
+AB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp58.wav,0.95114,1.74317
+AB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp67.wav,0.64517,1.40047
+AB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp20.wav,1.13855,1.6821
+AB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp29.wav,0.97706,1.52
+AB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp45.wav,0.78,1.27154
+AB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp5.wav,1.5369,2.07752
+AB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp52.wav,0.74853,1.26
+AB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp68.wav,0.73795,1.24
+AB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp12.wav,1.08199,1.77043
+AB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp35.wav,0.85,1.55
+AB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp47.wav,0.85502,1.51797
+AB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp55.wav,0.83445,1.49736
+AB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp66.wav,0.72,1.41082
+AB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp71.wav,0.72,1.35
+AB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp21.wav,1.09787,1.59
+AB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp30.wav,1.06,1.51997
+AB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp4.wav,1.42,2.02342
+AB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp43.wav,0.97,1.5135
+AB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp63.wav,0.95521,1.44456
+AB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp76.wav,0.9207,1.42497
+AB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp1.wav,1.62,2.5
+AB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp18.wav,1.12696,1.87204
+AB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp28.wav,1.03,1.76122
+AB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp49.wav,0.93755,1.76
+AB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp54.wav,0.89,1.67
+AB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp72.wav,0.61763,1.44882
+AB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp10.wav,1.36695,2.44606
+AB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp36.wav,1.00043,1.97
+AB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp46.wav,0.89486,1.83339
+AB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp61.wav,0.89099,1.83823
+AB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp70.wav,0.77481,1.67502
+AB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp73.wav,0.74,1.68878
+AB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp17.wav,1.24882,1.73
+AB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp27.wav,1.12065,1.57557
+AB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp40.wav,1.06,1.52656
+AB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp62.wav,1.046,1.48974
+AB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp65.wav,0.73535,1.20316
+AB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp7.wav,1.14614,1.67
+AB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp11.wav,1.50438,2.14057
+AB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp19.wav,1.23,1.84689
+AB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp25.wav,1.27163,1.89217
+AB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp39.wav,0.92,1.6259
+AB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp56.wav,1.0317,1.625
+AB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp74.wav,0.64825,1.29234
+AB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp22.wav,1.19,2.15
+AB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp33.wav,1.11,2.07
+AB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp48.wav,0.94,1.95177
+AB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp6.wav,1.27,2.22607
+AB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp60.wav,1.13,2.03
+AB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp75.wav,0.87,1.8
+AB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp2.wav,1.45661,2.20007
+AB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp23.wav,1.2042,1.86001
+AB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp31.wav,1.15,1.82
+AB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp38.wav,0.84638,1.48938
+AB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp51.wav,0.8661,1.46
+AB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp69.wav,0.74,1.35441
+AB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp13.wav,1.13137,1.73
+AB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp15.wav,1.0841,1.66684
+AB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp32.wav,1.01439,1.61
+AB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp50.wav,0.85641,1.44
+AB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp57.wav,0.91,1.54444
+AB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp78.wav,0.73511,1.32
+AB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp16.wav,1.23149,1.58068
+AB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp34.wav,1.12,1.49
+AB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp44.wav,0.85,1.23721
+AB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp53.wav,0.96,1.33
+AB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp77.wav,0.77,1.13995
+AB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB\ab_rus_list1_FRcorp9.wav,1.44101,1.81
+AB2,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp14.wav,1.37725,2.10923
+AB2,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp26.wav,1.50424,2.2815
+AB2,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp3.wav,1.11,1.89095
+AB2,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp41.wav,1.23385,1.93313
+AB2,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp58.wav,1.21,1.88485
+AB2,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp67.wav,1.48462,2.22093
+AB2,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp20.wav,1.44,1.97386
+AB2,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp29.wav,1.43,2.01899
+AB2,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp45.wav,1.56357,2.15973
+AB2,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp5.wav,1.19,1.77211
+AB2,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp52.wav,1.54,2.10766
+AB2,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp68.wav,1.3958,1.90872
+AB2,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp12.wav,1.26,1.97529
+AB2,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp35.wav,1.48385,2.07439
+AB2,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp47.wav,1.37994,1.99045
+AB2,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp55.wav,1.42,1.95
+AB2,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp66.wav,1.24,1.79955
+AB2,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp71.wav,1.34,1.87499
+AB2,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp21.wav,1.37874,1.76464
+AB2,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp30.wav,1.3,1.84
+AB2,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp4.wav,1.65943,2.18
+AB2,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp43.wav,1.7,2.27
+AB2,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp63.wav,1.51,2.03
+AB2,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp76.wav,1.16588,1.62604
+AB2,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp1.wav,1.58629,2.52021
+AB2,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp18.wav,2.04,2.98864
+AB2,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp28.wav,1.52,2.32799
+AB2,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp49.wav,1.71041,2.45772
+AB2,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp54.wav,1.42,2.08
+AB2,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp72.wav,1.13329,1.82108
+AB2,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp10.wav,1.68,2.65316
+AB2,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp36.wav,1.39,2.3191
+AB2,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp46.wav,1.41,2.39033
+AB2,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp61.wav,1.21,1.99682
+AB2,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp70.wav,1.46,2.34294
+AB2,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp73.wav,1.64756,2.4922
+AB2,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp17.wav,1.47,1.91
+AB2,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp27.wav,1.30299,1.75
+AB2,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp40.wav,1.31,1.78585
+AB2,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp62.wav,1.24,1.6618
+AB2,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp65.wav,1.2756,1.64335
+AB2,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp7.wav,1.21074,1.66
+AB2,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp11.wav,1.63633,2.1857
+AB2,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp19.wav,1.55,2.19386
+AB2,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp25.wav,1.36,1.91634
+AB2,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp39.wav,1.66,2.22319
+AB2,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp56.wav,1.54394,2.4143
+AB2,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp74.wav,1.39,1.96584
+AB2,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp22.wav,1.76,2.67722
+AB2,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp33.wav,1.74,2.61
+AB2,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp48.wav,1.21444,2.10114
+AB2,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp6.wav,1.1748,2.24
+AB2,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp60.wav,1.26,2.27
+AB2,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp75.wav,1.32877,2.22
+AB2,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp2.wav,1.03,1.63606
+AB2,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp23.wav,1.76,2.36453
+AB2,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp31.wav,1.55,2.17574
+AB2,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp38.wav,1.71,2.34171
+AB2,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp51.wav,1.71707,2.30858
+AB2,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp69.wav,1.50539,2.11159
+AB2,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp13.wav,1.55483,2.22
+AB2,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp15.wav,1.29672,1.92
+AB2,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp32.wav,1.38491,2.04595
+AB2,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp50.wav,1.4,2.00841
+AB2,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp57.wav,1.45,2.02
+AB2,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp78.wav,1.53348,2.14
+AB2,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp16.wav,1.39,1.77794
+AB2,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp34.wav,1.39611,1.7459
+AB2,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp44.wav,1.72,2.17311
+AB2,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp53.wav,1.71,1.99528
+AB2,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp77.wav,1.54,1.84231
+AB2,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AB2\ab2_rus_list1_FRcorp9.wav,1.53565,1.93636
+AG,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp14.wav,1.56,2.08079
+AG,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp26.wav,1.63211,2.14
+AG,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp3.wav,1.81478,2.35457
+AG,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp41.wav,1.35,1.88634
+AG,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp58.wav,1.67,2.25
+AG,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp67.wav,1.35,1.93
+AG,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp20.wav,1.05,1.44
+AG,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp29.wav,1.33,1.67
+AG,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp45.wav,1.61,2.03
+AG,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp5.wav,1.58,1.96
+AG,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp52.wav,2.07,2.45715
+AG,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp68.wav,1.67,2.08
+AG,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp12.wav,1.39,1.89555
+AG,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp35.wav,1.65,2.1
+AG,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp47.wav,1.31,1.77
+AG,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp55.wav,1.97,2.45
+AG,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp66.wav,1.11,1.53
+AG,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp71.wav,1.38,1.83
+AG,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp21.wav,1.45501,1.75
+AG,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp30.wav,1.73593,2.03
+AG,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp4.wav,2.12806,2.4
+AG,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp43.wav,1.11892,1.4
+AG,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp63.wav,1.85453,2.13
+AG,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp76.wav,1.58332,1.86
+AG,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp1.wav,3.37286,3.79
+AG,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp18.wav,1.54116,1.95518
+AG,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp28.wav,1.61128,2.02
+AG,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp49.wav,1.6,1.99
+AG,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp54.wav,1.964,2.36
+AG,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp72.wav,1.32,1.71085
+AG,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp10.wav,1.33827,2.1
+AG,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp36.wav,1.23,1.95
+AG,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp46.wav,1.53,2.22
+AG,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp61.wav,1.58228,2.28
+AG,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp70.wav,1.48,2.18
+AG,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp73.wav,1.12915,1.81
+AG,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp17.wav,1.47798,1.77
+AG,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp27.wav,1.61,1.91
+AG,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp40.wav,1.70291,1.98
+AG,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp62.wav,1.43,1.73
+AG,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp65.wav,1.0,1.27
+AG,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp7.wav,1.67676,2.02652
+AG,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp11.wav,1.95628,2.40699
+AG,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp19.wav,1.41,1.84
+AG,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp25.wav,1.71758,2.07
+AG,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp39.wav,1.42386,1.78552
+AG,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp56.wav,1.81,2.26977
+AG,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp74.wav,1.38,1.86
+AG,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp22.wav,1.8863,2.6597
+AG,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp33.wav,1.12,1.9
+AG,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp48.wav,1.57,2.42
+AG,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp6.wav,1.88057,2.71
+AG,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp60.wav,1.13,1.84
+AG,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp75.wav,1.41,2.15
+AG,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp2.wav,1.65,2.12
+AG,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp23.wav,1.3,1.77
+AG,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp31.wav,1.54859,2.03
+AG,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp38.wav,1.2,1.59
+AG,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp51.wav,1.49,2.0449
+AG,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp69.wav,1.93,2.42
+AG,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp13.wav,1.54448,2.06
+AG,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp15.wav,1.49054,2.01
+AG,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp32.wav,1.35374,1.86
+AG,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp50.wav,1.57534,2.05
+AG,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp57.wav,1.62203,2.13
+AG,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp78.wav,1.19291,1.66484
+AG,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp16.wav,1.49,1.8
+AG,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp34.wav,1.74,2.03
+AG,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp44.wav,1.57,1.91
+AG,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp53.wav,1.44,1.7315
+AG,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp77.wav,1.64,1.9467
+AG,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AG\ag_fra_list1_FRcorp9.wav,1.71956,2.04
+AN,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp14.wav,0.55,0.986
+AN,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp26.wav,0.5,0.929
+AN,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp3.wav,0.69,1.1207
+AN,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp41.wav,0.58,1.02018
+AN,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp58.wav,0.67,1.13046
+AN,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp67.wav,0.56,1.05155
+AN,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp20.wav,0.71,1.04368
+AN,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp29.wav,0.65,0.98
+AN,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp45.wav,0.65299,0.99845
+AN,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp5.wav,0.69182,1.02
+AN,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp52.wav,0.58,0.95
+AN,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp68.wav,0.46,0.82
+AN,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp12.wav,0.69,1.06
+AN,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp35.wav,0.77,1.17
+AN,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp47.wav,0.48,0.89
+AN,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp55.wav,0.55,0.98
+AN,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp66.wav,0.55,0.97
+AN,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp71.wav,0.59,1.04
+AN,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp21.wav,0.55558,0.94
+AN,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp30.wav,0.70415,1.03
+AN,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp4.wav,0.70807,1.0137
+AN,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp43.wav,0.76075,1.07
+AN,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp63.wav,0.57357,0.93
+AN,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp76.wav,0.60772,0.97
+AN,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp1.wav,1.11211,1.47292
+AN,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp18.wav,0.62,0.99415
+AN,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp28.wav,0.68994,1.04
+AN,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp49.wav,0.61,1.00667
+AN,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp54.wav,0.49,0.92375
+AN,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp72.wav,0.55,1.01
+AN,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp10.wav,0.62,1.26
+AN,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp36.wav,0.58,1.23
+AN,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp46.wav,0.47257,1.13
+AN,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp61.wav,0.48,1.12
+AN,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp70.wav,0.59,1.32
+AN,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp73.wav,0.53,1.25
+AN,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp17.wav,0.5708,0.81
+AN,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp27.wav,0.64348,0.88594
+AN,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp40.wav,0.72911,0.96277
+AN,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp62.wav,0.59919,0.83
+AN,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp65.wav,0.65,0.93931
+AN,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp7.wav,0.61,0.83283
+AN,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp11.wav,0.78072,1.1
+AN,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp19.wav,0.69,1.05028
+AN,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp25.wav,0.65026,0.96161
+AN,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp39.wav,0.58,0.93729
+AN,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp56.wav,0.64,1.02315
+AN,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp74.wav,0.57629,0.94
+AN,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp22.wav,0.54,1.2
+AN,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp33.wav,0.67,1.31
+AN,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp48.wav,0.55,1.16
+AN,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp6.wav,0.62597,1.28
+AN,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp60.wav,0.55,1.13914
+AN,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp75.wav,0.63,1.25433
+AN,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp2.wav,0.69,1.05
+AN,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp23.wav,0.56014,0.90743
+AN,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp31.wav,0.62,0.98815
+AN,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp38.wav,0.7,1.08578
+AN,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp51.wav,0.44,0.86
+AN,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp69.wav,0.50319,0.9302
+AN,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp13.wav,0.63074,1.06284
+AN,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp15.wav,0.55239,0.94501
+AN,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp32.wav,0.5658,0.94061
+AN,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp50.wav,0.45,0.9
+AN,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp57.wav,0.77585,1.21
+AN,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp78.wav,0.50899,0.97
+AN,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp16.wav,0.67,0.89591
+AN,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp34.wav,0.67,0.89
+AN,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp44.wav,0.69,0.93
+AN,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp53.wav,0.53,0.78
+AN,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp77.wav,0.54,0.82147
+AN,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AN\an_fra_list1_FRcorp9.wav,0.76,1.00105
+AR,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp14.wav,0.75,1.27
+AR,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp26.wav,0.61332,1.14105
+AR,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp3.wav,0.77219,1.40314
+AR,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp41.wav,0.52,1.03
+AR,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp58.wav,0.69424,1.24
+AR,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp67.wav,0.58,1.08179
+AR,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp20.wav,0.66,1.07
+AR,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp29.wav,0.68,1.09
+AR,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp45.wav,0.51,0.86
+AR,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp5.wav,0.77,1.17723
+AR,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp52.wav,0.66,1.0592
+AR,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp68.wav,0.53,0.88
+AR,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp12.wav,0.52,0.97642
+AR,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp35.wav,0.56798,0.97899
+AR,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp47.wav,0.59,1.01
+AR,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp55.wav,0.66817,1.08
+AR,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp66.wav,0.66,1.09
+AR,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp71.wav,0.64727,1.06
+AR,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp21.wav,0.72195,1.09
+AR,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp30.wav,0.79,1.16
+AR,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp4.wav,0.9148,1.37
+AR,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp43.wav,0.54342,0.92
+AR,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp63.wav,0.84845,1.2
+AR,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp76.wav,0.58,0.95
+AR,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp1.wav,0.8,1.21235
+AR,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp18.wav,0.79834,1.30248
+AR,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp28.wav,0.64,1.1
+AR,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp49.wav,0.72,1.15
+AR,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp54.wav,0.75945,1.17098
+AR,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp72.wav,0.59031,1.01
+AR,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp10.wav,0.62,1.4
+AR,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp36.wav,0.7,1.46
+AR,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp46.wav,0.53,1.24
+AR,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp61.wav,0.59,1.31
+AR,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp70.wav,0.51,1.2
+AR,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp73.wav,0.57068,1.29
+AR,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp17.wav,0.60616,0.97
+AR,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp27.wav,0.69,1.02083
+AR,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp40.wav,0.61,0.96249
+AR,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp62.wav,0.59891,0.92823
+AR,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp65.wav,0.71,0.97
+AR,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp7.wav,0.83,1.23234
+AR,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp11.wav,0.59,1.04
+AR,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp19.wav,0.66,1.11
+AR,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp25.wav,0.56686,1.01
+AR,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp39.wav,0.46,0.88
+AR,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp56.wav,0.55356,0.97
+AR,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp74.wav,0.64,1.08
+AR,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp22.wav,0.53,1.29
+AR,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp33.wav,0.64724,1.3964
+AR,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp48.wav,0.62,1.35
+AR,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp6.wav,0.78,1.61789
+AR,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp60.wav,0.63,1.34173
+AR,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp75.wav,0.67,1.39
+AR,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp2.wav,0.701,1.20568
+AR,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp23.wav,0.66,1.13
+AR,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp31.wav,0.75,1.22
+AR,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp38.wav,0.61176,1.01
+AR,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp51.wav,0.58,1.02
+AR,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp69.wav,0.58,1.0349
+AR,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp13.wav,0.58707,1.06546
+AR,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp15.wav,0.61087,1.09
+AR,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp32.wav,0.76786,1.27
+AR,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp50.wav,0.68023,1.14174
+AR,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp57.wav,0.6482,1.12349
+AR,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp78.wav,0.56677,1.01
+AR,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp16.wav,0.63,0.94377
+AR,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp34.wav,0.73,1.05
+AR,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp44.wav,0.43,0.74
+AR,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp53.wav,0.66,0.99833
+AR,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp77.wav,0.6,0.96
+AR,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\AR\ar_fra_list1_FRcorp9.wav,0.7,1.06825
+CB,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp14.wav,0.81,1.31
+CB,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp26.wav,0.77,1.30445
+CB,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp3.wav,0.86,1.34
+CB,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp41.wav,0.78,1.41016
+CB,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp58.wav,0.82,1.6
+CB,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp67.wav,0.72,1.4
+CB,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp20.wav,0.93347,1.44
+CB,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp29.wav,0.81,1.33
+CB,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp45.wav,0.73,1.24418
+CB,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp5.wav,0.84,1.26
+CB,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp52.wav,0.88,1.38
+CB,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp68.wav,0.62,1.0808
+CB,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp12.wav,0.93,1.39
+CB,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp35.wav,0.78,1.33455
+CB,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp47.wav,0.82,1.36
+CB,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp55.wav,0.8,1.42
+CB,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp66.wav,0.84,1.37
+CB,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp71.wav,0.8,1.32266
+CB,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp21.wav,0.9,1.28
+CB,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp30.wav,0.9512,1.41
+CB,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp4.wav,0.8,1.14551
+CB,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp43.wav,0.86065,1.25
+CB,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp63.wav,0.82,1.31
+CB,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp76.wav,0.89445,1.31
+CB,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp1.wav,0.90007,1.33
+CB,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp18.wav,0.95,1.45
+CB,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp28.wav,0.96,1.47252
+CB,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp49.wav,0.82192,1.37165
+CB,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp54.wav,0.8,1.39
+CB,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp72.wav,0.78,1.26
+CB,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp10.wav,0.72,1.39999
+CB,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp36.wav,0.87,1.55
+CB,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp46.wav,0.79,1.48
+CB,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp61.wav,0.69,1.35
+CB,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp70.wav,0.75,1.47111
+CB,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp73.wav,0.85,1.56
+CB,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp17.wav,0.97865,1.31124
+CB,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp27.wav,0.9,1.26037
+CB,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp40.wav,1.00669,1.49116
+CB,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp62.wav,0.82,1.28
+CB,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp65.wav,0.73595,1.0457
+CB,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp7.wav,1.06,1.39771
+CB,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp11.wav,0.93,1.29
+CB,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp19.wav,1.05691,1.47
+CB,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp25.wav,0.93,1.36
+CB,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp39.wav,1.07,1.48
+CB,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp56.wav,0.9,1.30837
+CB,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp74.wav,0.79,1.34
+CB,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp22.wav,0.94,1.67
+CB,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp33.wav,0.96,1.68
+CB,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp48.wav,0.73,1.56
+CB,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp6.wav,0.84205,1.55
+CB,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp60.wav,0.83,1.54
+CB,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp75.wav,0.87,1.62
+CB,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp2.wav,0.81728,1.17597
+CB,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp23.wav,1.08257,1.61416
+CB,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp31.wav,0.99,1.46349
+CB,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp38.wav,1.08,1.58
+CB,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp51.wav,0.96,1.50387
+CB,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp69.wav,0.59832,1.09556
+CB,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp13.wav,0.80769,1.30131
+CB,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp15.wav,0.99123,1.49
+CB,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp32.wav,1.09,1.6
+CB,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp50.wav,0.74562,1.39
+CB,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp57.wav,0.91,1.49
+CB,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp78.wav,0.64201,1.19
+CB,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp16.wav,1.05313,1.34
+CB,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp34.wav,0.99166,1.34161
+CB,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp44.wav,0.82,1.22705
+CB,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp53.wav,0.93,1.32
+CB,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp77.wav,0.75,1.11152
+CB,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\CB\cb_fra_list1_FRcorp9.wav,0.77592,1.15
+DD,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp14.wav,1.07,1.78
+DD,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp26.wav,0.97,1.84808
+DD,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp3.wav,0.61,1.3
+DD,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp41.wav,0.64,1.38035
+DD,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp58.wav,0.64,1.43559
+DD,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp67.wav,0.5,1.37761
+DD,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp20.wav,0.83,1.42
+DD,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp29.wav,0.97,1.55
+DD,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp45.wav,0.65,1.26989
+DD,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp5.wav,0.97,1.57
+DD,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp52.wav,0.7,1.28766
+DD,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp68.wav,1.82272,2.43335
+DD,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp12.wav,0.95,1.63557
+DD,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp35.wav,0.77,1.44
+DD,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp47.wav,0.72,1.39
+DD,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp55.wav,0.79846,1.40059
+DD,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp66.wav,0.49,1.21
+DD,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp71.wav,0.57907,1.16789
+DD,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp21.wav,0.71,1.25616
+DD,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp30.wav,1.41447,1.90714
+DD,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp4.wav,1.9304,2.39
+DD,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp43.wav,0.6567,1.15963
+DD,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp63.wav,0.56395,1.01338
+DD,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp76.wav,0.53,1.06868
+DD,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp1.wav,0.88438,1.25
+DD,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp18.wav,1.04,1.68
+DD,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp28.wav,0.92,1.51648
+DD,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp49.wav,0.75957,1.23966
+DD,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp54.wav,0.64,1.16
+DD,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp72.wav,0.457,1.07619
+DD,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp10.wav,0.83,1.67
+DD,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp36.wav,0.75,1.64
+DD,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp46.wav,1.04,1.86638
+DD,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp61.wav,0.56,1.32
+DD,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp70.wav,0.72,1.55
+DD,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp73.wav,1.24,2.04067
+DD,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp17.wav,0.92,1.5
+DD,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp27.wav,0.9842,1.54
+DD,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp40.wav,0.77573,1.29651
+DD,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp62.wav,0.50491,0.959
+DD,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp65.wav,0.77,1.25
+DD,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp7.wav,0.97506,1.51891
+DD,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp11.wav,1.39,1.89
+DD,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp19.wav,1.08,1.59
+DD,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp25.wav,0.8,1.39
+DD,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp39.wav,0.66,1.28476
+DD,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp56.wav,0.79332,1.27469
+DD,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp74.wav,0.84,1.33
+DD,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp22.wav,1.1,2.09
+DD,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp33.wav,0.81,1.71
+DD,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp48.wav,0.67,1.66018
+DD,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp6.wav,1.13,2.14
+DD,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp60.wav,0.86699,1.81957
+DD,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp75.wav,0.92,1.8357
+DD,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp2.wav,0.88,1.27514
+DD,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp23.wav,0.75,1.3442
+DD,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp31.wav,0.8,1.33654
+DD,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp38.wav,1.25,1.86
+DD,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp51.wav,0.56839,1.0864
+DD,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp69.wav,0.53909,1.15
+DD,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp13.wav,1.05,1.72084
+DD,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp15.wav,1.46,2.07
+DD,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp32.wav,0.77785,1.4261
+DD,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp50.wav,0.69,1.29294
+DD,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp57.wav,0.79,1.39
+DD,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp78.wav,0.68494,1.36
+DD,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp16.wav,1.57,2.02
+DD,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp34.wav,0.73607,1.1
+DD,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp44.wav,0.6,0.95817
+DD,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp53.wav,0.63,1.04945
+DD,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp77.wav,0.61,1.03537
+DD,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\DD\dd_rus_list1_FRcorp9.wav,0.95,1.26065
+KB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp14.wav,1.37,1.96071
+KB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp26.wav,1.44,2.19426
+KB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp3.wav,1.16,1.8616
+KB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp41.wav,1.63,2.47
+KB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp58.wav,1.25,2.15
+KB,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp67.wav,1.49,2.30907
+KB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp20.wav,1.21,1.65396
+KB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp29.wav,1.28516,1.92
+KB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp45.wav,1.46,2.05685
+KB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp5.wav,1.48,2.12065
+KB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp52.wav,1.62,2.21
+KB,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp68.wav,1.43,2.06866
+KB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp12.wav,1.33057,2.08594
+KB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp35.wav,1.74999,2.55526
+KB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp47.wav,2.01,2.83654
+KB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp55.wav,1.86,2.58807
+KB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp66.wav,1.62,2.42252
+KB,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp71.wav,1.22261,1.90822
+KB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp21.wav,1.45202,2.05
+KB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp30.wav,1.81,2.31
+KB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp4.wav,1.47058,1.97462
+KB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp43.wav,1.68652,2.23
+KB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp63.wav,1.89708,2.43045
+KB,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp76.wav,1.5,2.06
+KB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp1.wav,1.83166,2.41
+KB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp18.wav,1.54,2.17923
+KB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp28.wav,1.14448,1.84486
+KB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp49.wav,2.28,2.99692
+KB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp54.wav,1.92232,2.69
+KB,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp72.wav,1.25,1.91014
+KB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp10.wav,1.54,2.51
+KB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp36.wav,1.4,2.45
+KB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp46.wav,1.75999,2.82153
+KB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp61.wav,1.44,2.5
+KB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp70.wav,1.34,2.43
+KB,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp73.wav,1.056,1.96969
+KB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp17.wav,1.32,1.75
+KB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp27.wav,1.35169,1.86654
+KB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp40.wav,1.35,1.99606
+KB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp62.wav,1.85,2.45233
+KB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp65.wav,0.98611,1.46
+KB,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp7.wav,1.61629,2.16107
+KB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp11.wav,2.47,3.01
+KB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp19.wav,1.49,2.06
+KB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp25.wav,1.38,1.85844
+KB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp39.wav,2.12,2.63787
+KB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp56.wav,1.85,2.31908
+KB,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp74.wav,1.09,1.61603
+KB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp22.wav,1.43,2.45
+KB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp33.wav,1.36861,2.41933
+KB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp48.wav,2.04,3.1098
+KB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp6.wav,1.76,2.81
+KB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp60.wav,2.02,3.04392
+KB,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp75.wav,1.05438,2.15
+KB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp2.wav,1.13,1.68976
+KB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp23.wav,1.33,2.00976
+KB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp31.wav,1.7,2.39
+KB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp38.wav,1.3,1.91
+KB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp51.wav,2.25,2.97
+KB,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp69.wav,1.58,2.23039
+KB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp13.wav,1.59549,2.23103
+KB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp15.wav,1.2059,1.81767
+KB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp32.wav,1.56,2.24
+KB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp50.wav,1.51,2.20585
+KB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp57.wav,2.38,3.03
+KB,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp78.wav,1.03,1.75
+KB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp16.wav,1.2,1.61864
+KB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp34.wav,1.55,1.98
+KB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp44.wav,1.84,2.27993
+KB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp53.wav,1.71,2.15789
+KB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp77.wav,0.98,1.50636
+KB,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KB\kb_rus_list1_FRcorp9.wav,1.59,2.02
+KL,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp14.wav,1.31,1.73
+KL,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp26.wav,1.32658,1.81
+KL,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp3.wav,0.91,1.4
+KL,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp41.wav,1.25,1.7
+KL,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp58.wav,1.12,1.59127
+KL,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp67.wav,1.22,1.67
+KL,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp20.wav,1.22,1.56
+KL,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp29.wav,1.22,1.57638
+KL,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp45.wav,1.26,1.58832
+KL,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp5.wav,0.44,0.79
+KL,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp52.wav,1.18,1.48
+KL,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp68.wav,1.1,1.41102
+KL,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp12.wav,1.24,1.64
+KL,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp35.wav,1.16586,1.56576
+KL,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp47.wav,0.98699,1.38
+KL,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp55.wav,1.06,1.45
+KL,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp66.wav,1.11,1.55
+KL,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp71.wav,1.21684,1.55845
+KL,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp21.wav,1.3,1.55
+KL,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp30.wav,1.27,1.52
+KL,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp4.wav,1.28,1.54
+KL,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp43.wav,1.3,1.56
+KL,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp63.wav,1.14,1.42
+KL,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp76.wav,1.12,1.39
+KL,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp1.wav,1.21,1.61
+KL,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp18.wav,1.44,1.82
+KL,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp28.wav,1.24,1.63
+KL,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp49.wav,1.4,1.80537
+KL,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp54.wav,1.1,1.52814
+KL,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp72.wav,1.45,1.8
+KL,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp10.wav,1.61,2.26
+KL,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp36.wav,1.2,1.89
+KL,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp46.wav,1.21018,1.83
+KL,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp61.wav,1.25,1.87
+KL,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp70.wav,1.22,1.86
+KL,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp73.wav,0.93,1.56
+KL,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp17.wav,0.94677,1.2
+KL,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp27.wav,0.7906,1.02698
+KL,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp40.wav,1.19,1.40548
+KL,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp62.wav,1.11006,1.35
+KL,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp65.wav,1.23,1.48
+KL,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp7.wav,1.68,1.96
+KL,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp11.wav,1.19,1.64
+KL,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp19.wav,1.45188,1.79487
+KL,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp25.wav,1.55678,1.91257
+KL,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp39.wav,1.28633,1.65
+KL,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp56.wav,1.11,1.46
+KL,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp74.wav,1.24482,1.57
+KL,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp22.wav,1.3,2.06
+KL,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp33.wav,1.29013,2.08339
+KL,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp48.wav,1.34,2.02986
+KL,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp6.wav,1.68853,2.4703
+KL,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp60.wav,1.55576,2.3
+KL,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp75.wav,1.36,2.11964
+KL,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp2.wav,0.59198,1.0339
+KL,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp23.wav,1.30687,1.71
+KL,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp31.wav,1.32,1.75
+KL,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp38.wav,1.46843,1.90952
+KL,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp51.wav,1.09,1.53
+KL,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp69.wav,1.04983,1.46
+KL,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp13.wav,2.21,2.78
+KL,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp15.wav,1.4546,1.86
+KL,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp32.wav,1.20503,1.67
+KL,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp50.wav,1.21626,1.67443
+KL,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp57.wav,1.0043,1.42282
+KL,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp78.wav,0.98934,1.37095
+KL,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp16.wav,1.36,1.56673
+KL,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp34.wav,1.28,1.54361
+KL,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp44.wav,1.19709,1.47033
+KL,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp53.wav,1.11,1.33182
+KL,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp77.wav,1.05,1.25
+KL,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KL\kl_rus_list1_FRcorp9.wav,1.4,1.64008
+KV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp14.wav,1.32,2.08948
+KV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp26.wav,1.01,1.64239
+KV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp3.wav,1.08601,2.00336
+KV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp41.wav,1.43,2.09331
+KV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp58.wav,1.17,1.74622
+KV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp67.wav,1.07,1.67811
+KV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp20.wav,0.97,1.53182
+KV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp29.wav,0.83088,1.34
+KV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp45.wav,0.84,1.34902
+KV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp5.wav,1.1,1.71002
+KV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp52.wav,1.19,1.69968
+KV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp68.wav,0.89,1.37029
+KV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp12.wav,1.07,1.70327
+KV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp35.wav,1.25,1.82124
+KV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp47.wav,0.83058,1.45
+KV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp55.wav,0.95763,1.57
+KV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp66.wav,0.71,1.29
+KV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp71.wav,0.9,1.45246
+KV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp21.wav,1.15107,1.58223
+KV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp30.wav,1.0607,1.44143
+KV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp4.wav,1.27403,1.79
+KV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp43.wav,0.943,1.32
+KV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp63.wav,0.75118,1.18
+KV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp76.wav,0.96674,1.35655
+KV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp1.wav,1.71376,2.29942
+KV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp18.wav,1.16,1.86786
+KV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp28.wav,1.25527,1.8909
+KV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp49.wav,1.19301,1.77156
+KV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp54.wav,0.93959,1.50122
+KV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp72.wav,0.98,1.54
+KV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp10.wav,1.1,1.90823
+KV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp36.wav,1.1231,1.89
+KV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp46.wav,0.87,1.63407
+KV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp61.wav,0.73,1.49224
+KV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp70.wav,0.91,1.67
+KV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp73.wav,0.92,1.68
+KV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp17.wav,1.56508,1.99521
+KV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp27.wav,1.23,1.60909
+KV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp40.wav,0.93725,1.28704
+KV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp62.wav,0.75523,1.18537
+KV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp65.wav,1.19,1.51781
+KV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp7.wav,1.45,1.92316
+KV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp11.wav,0.94,1.88
+KV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp19.wav,0.91397,1.72
+KV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp25.wav,1.33,1.99
+KV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp39.wav,0.93,1.52
+KV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp56.wav,1.04,1.67
+KV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp74.wav,0.91566,1.58
+KV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp22.wav,1.14,2.20453
+KV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp33.wav,1.09,1.94231
+KV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp48.wav,1.05,1.95
+KV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp6.wav,1.2,2.22593
+KV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp60.wav,1.19,1.99218
+KV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp75.wav,1.15046,1.98967
+KV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp2.wav,1.12,1.7361
+KV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp23.wav,0.96,1.60419
+KV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp31.wav,0.89967,1.55
+KV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp38.wav,1.23,1.8
+KV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp51.wav,1.01326,1.60061
+KV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp69.wav,1.09955,1.5998
+KV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp13.wav,0.92338,1.71
+KV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp15.wav,1.16593,1.88005
+KV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp32.wav,1.05,1.57
+KV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp50.wav,0.95636,1.5864
+KV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp57.wav,1.32951,1.85
+KV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp78.wav,1.01752,1.62477
+KV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp16.wav,1.32697,1.83
+KV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp34.wav,0.93,1.2989
+KV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp44.wav,0.85,1.23443
+KV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp53.wav,0.93,1.4
+KV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp77.wav,1.1,1.4786
+KV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\KV\kv_rus_list1_FRcorp9.wav,1.06691,1.45
+MD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp14.wav,0.55,1.11478
+MD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp26.wav,0.44,0.87
+MD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp3.wav,0.47,0.94
+MD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp41.wav,0.6,1.01
+MD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp58.wav,1.0,1.46
+MD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp67.wav,0.47,0.92
+MD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp20.wav,0.58,1.02
+MD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp29.wav,0.68906,1.18879
+MD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp45.wav,0.67,1.13
+MD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp5.wav,0.73,1.08
+MD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp52.wav,0.58,0.92
+MD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp68.wav,0.87,1.19
+MD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp12.wav,0.67,1.25
+MD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp35.wav,0.57,1.10777
+MD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp47.wav,0.72,1.2
+MD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp55.wav,0.86,1.28901
+MD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp66.wav,0.43678,0.78
+MD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp71.wav,0.61,0.99
+MD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp21.wav,1.22776,1.57459
+MD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp30.wav,0.85048,1.15564
+MD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp4.wav,0.35,0.72109
+MD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp43.wav,0.93,1.27
+MD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp63.wav,0.55,0.88354
+MD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp76.wav,0.79,1.20188
+MD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp1.wav,1.09222,1.6207
+MD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp18.wav,0.46,1.01
+MD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp28.wav,0.52897,1.03221
+MD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp49.wav,0.69093,1.09673
+MD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp54.wav,0.6,0.99236
+MD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp72.wav,0.52273,1.07
+MD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp10.wav,0.75,1.45
+MD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp36.wav,0.83,1.66589
+MD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp46.wav,0.69725,1.44
+MD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp61.wav,0.58,1.21
+MD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp70.wav,0.82042,1.49
+MD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp73.wav,0.66,1.23
+MD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp17.wav,0.54414,0.8837
+MD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp27.wav,0.44277,0.84866
+MD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp40.wav,0.5343,0.81
+MD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp62.wav,0.52,0.86223
+MD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp65.wav,0.60442,0.85
+MD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp7.wav,0.58,1.06
+MD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp11.wav,0.75,1.19484
+MD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp19.wav,0.64,1.19057
+MD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp25.wav,0.76649,1.23
+MD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp39.wav,0.7,1.11
+MD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp56.wav,1.37,1.74
+MD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp74.wav,0.98,1.41
+MD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp22.wav,1.31,2.06986
+MD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp33.wav,0.72,1.49861
+MD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp48.wav,0.64,1.26065
+MD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp6.wav,0.57,1.25
+MD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp60.wav,0.85,1.56
+MD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp75.wav,1.1641,1.81
+MD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp2.wav,0.49577,0.92
+MD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp23.wav,0.62,1.06
+MD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp31.wav,0.58,1.04
+MD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp38.wav,0.67,1.06
+MD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp51.wav,0.51687,0.95306
+MD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp69.wav,0.83176,1.20618
+MD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp13.wav,1.42475,1.96
+MD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp15.wav,0.84845,1.30438
+MD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp32.wav,0.78262,1.21666
+MD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp50.wav,0.48656,1.03322
+MD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp57.wav,0.62612,1.16
+MD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp78.wav,0.64481,1.03
+MD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp16.wav,0.55,0.94291
+MD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp34.wav,0.7,1.16682
+MD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp44.wav,0.79,1.19
+MD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp53.wav,0.71,1.12
+MD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp77.wav,0.61,1.02411
+MD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MD\md_fra_list1_FRcorp9.wav,0.99,1.43
+MM,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp14.wav,0.81,1.50195
+MM,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp26.wav,0.89,1.69
+MM,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp3.wav,0.8,1.41586
+MM,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp41.wav,0.87,1.6441
+MM,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp58.wav,0.87002,1.64918
+MM,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp67.wav,0.76,1.52755
+MM,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp20.wav,0.84,1.3539
+MM,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp29.wav,0.88,1.43321
+MM,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp45.wav,0.82,1.34334
+MM,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp5.wav,0.73,1.23753
+MM,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp52.wav,0.79528,1.33338
+MM,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp68.wav,0.81951,1.3483
+MM,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp12.wav,0.8,1.39
+MM,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp35.wav,0.79,1.47
+MM,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp47.wav,0.84,1.4891
+MM,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp55.wav,0.92609,1.54349
+MM,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp66.wav,0.84,1.49
+MM,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp71.wav,0.86,1.49828
+MM,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp21.wav,0.86058,1.42
+MM,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp30.wav,1.06295,1.60294
+MM,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp4.wav,0.76742,1.23
+MM,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp43.wav,1.08879,1.66457
+MM,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp63.wav,1.1,1.69157
+MM,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp76.wav,0.8934,1.46588
+MM,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp1.wav,1.57,2.10504
+MM,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp18.wav,0.84,1.4083
+MM,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp28.wav,0.77521,1.3952
+MM,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp49.wav,0.98,1.599
+MM,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp54.wav,0.87921,1.45152
+MM,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp72.wav,0.75,1.38725
+MM,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp10.wav,1.19379,2.13052
+MM,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp36.wav,0.77026,1.68362
+MM,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp46.wav,1.06,2.01604
+MM,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp61.wav,0.91129,1.77
+MM,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp70.wav,0.63,1.57
+MM,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp73.wav,0.82896,1.7232
+MM,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp17.wav,0.6706,1.16
+MM,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp27.wav,0.83,1.32
+MM,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp40.wav,1.12,1.54998
+MM,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp62.wav,0.84,1.32851
+MM,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp65.wav,0.81479,1.25235
+MM,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp7.wav,0.89,1.3383
+MM,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp11.wav,0.8,1.81
+MM,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp19.wav,0.95,1.67531
+MM,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp25.wav,1.00429,1.61236
+MM,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp39.wav,0.91075,1.54086
+MM,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp56.wav,0.95753,1.59012
+MM,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp74.wav,1.02,1.62338
+MM,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp22.wav,0.89,1.84
+MM,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp33.wav,0.89,1.95012
+MM,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp48.wav,0.93,1.93
+MM,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp6.wav,1.04,1.91905
+MM,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp60.wav,0.92,1.90315
+MM,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp75.wav,1.0,1.98
+MM,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp2.wav,0.92,1.44284
+MM,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp23.wav,0.65,1.23178
+MM,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp31.wav,0.81713,1.43226
+MM,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp38.wav,0.82557,1.41
+MM,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp51.wav,0.81,1.40925
+MM,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp69.wav,0.81321,1.56332
+MM,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp13.wav,1.02265,1.69
+MM,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp15.wav,0.75085,1.36814
+MM,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp32.wav,0.96522,1.65465
+MM,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp50.wav,0.8073,1.60356
+MM,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp57.wav,0.88925,1.68275
+MM,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp78.wav,1.08,1.85
+MM,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp16.wav,0.8,1.13887
+MM,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp34.wav,1.033,1.4
+MM,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp44.wav,0.9543,1.34505
+MM,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp53.wav,1.2,1.56
+MM,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp77.wav,1.07628,1.49
+MM,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\MM\mm_rus_list1_FRcorp9.wav,0.82,1.21187
+RN,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp14.wav,1.88,2.52763
+RN,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp26.wav,1.22,1.82
+RN,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp3.wav,0.83,1.50132
+RN,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp41.wav,0.65,1.31
+RN,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp58.wav,0.56,1.32616
+RN,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp67.wav,1.08,1.73
+RN,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp20.wav,1.43813,1.91518
+RN,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp29.wav,0.78,1.24957
+RN,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp45.wav,1.44,1.92484
+RN,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp5.wav,1.15,1.67182
+RN,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp52.wav,0.62306,1.09
+RN,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp68.wav,0.91,1.37046
+RN,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp12.wav,1.12,1.82654
+RN,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp35.wav,0.54,1.18738
+RN,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp47.wav,0.56,1.2854
+RN,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp55.wav,0.58,1.22206
+RN,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp66.wav,0.49286,1.17
+RN,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp71.wav,0.5383,1.07537
+RN,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp21.wav,0.87821,1.27
+RN,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp30.wav,0.74726,1.21119
+RN,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp4.wav,0.84215,1.3
+RN,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp43.wav,1.64104,2.02726
+RN,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp63.wav,0.61187,1.03816
+RN,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp76.wav,1.06416,1.5481
+RN,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp1.wav,1.28391,1.8001
+RN,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp18.wav,0.83882,1.42803
+RN,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp28.wav,0.73,1.23
+RN,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp49.wav,1.30558,1.88
+RN,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp54.wav,0.49,1.01
+RN,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp72.wav,0.72,1.19
+RN,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp10.wav,3.01201,4.25588
+RN,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp36.wav,0.95,1.83
+RN,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp46.wav,0.85,1.72
+RN,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp61.wav,0.83,1.69
+RN,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp70.wav,0.87,1.82
+RN,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp73.wav,0.48,1.36
+RN,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp17.wav,0.87837,1.30144
+RN,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp27.wav,0.72326,1.15051
+RN,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp40.wav,0.66135,1.2
+RN,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp62.wav,0.63365,1.10239
+RN,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp65.wav,0.8753,1.31
+RN,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp7.wav,1.17348,1.46925
+RN,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp11.wav,1.85,2.55522
+RN,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp19.wav,1.3738,2.04
+RN,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp25.wav,1.55376,2.01854
+RN,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp39.wav,1.42,2.11
+RN,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp56.wav,0.51,1.1
+RN,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp74.wav,0.55867,1.17
+RN,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp22.wav,2.47,3.30316
+RN,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp33.wav,0.62084,1.51379
+RN,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp48.wav,0.54,1.54
+RN,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp6.wav,1.22,2.19
+RN,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp60.wav,0.78138,1.64791
+RN,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp75.wav,0.55,1.47545
+RN,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp2.wav,0.94464,1.46078
+RN,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp23.wav,1.25683,1.83891
+RN,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp31.wav,0.99361,1.57313
+RN,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp38.wav,1.23091,1.74
+RN,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp51.wav,0.51756,1.03563
+RN,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp69.wav,0.62098,1.17685
+RN,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp13.wav,2.20761,2.98
+RN,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp15.wav,0.9898,1.69
+RN,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp32.wav,0.87372,1.59
+RN,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp50.wav,0.52013,1.16189
+RN,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp57.wav,0.55037,1.3
+RN,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp78.wav,0.89205,1.61
+RN,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp16.wav,1.36,1.91
+RN,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp34.wav,0.62,1.16
+RN,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp44.wav,0.93,1.4088
+RN,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp53.wav,0.61,1.08
+RN,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp77.wav,0.86,1.41291
+RN,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\RN\rn_rus_list1_FRcorp9.wav,1.18289,1.55
+SD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp14.wav,0.72,1.22
+SD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp26.wav,0.6933,1.32098
+SD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp3.wav,0.55,0.99902
+SD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp41.wav,0.69,1.19
+SD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp58.wav,0.9,1.42
+SD,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp67.wav,0.9,1.38658
+SD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp20.wav,0.74,1.21
+SD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp29.wav,0.89072,1.32396
+SD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp45.wav,0.59,1.02002
+SD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp5.wav,0.57513,1.02
+SD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp52.wav,0.85,1.28
+SD,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp68.wav,0.79,1.21969
+SD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp12.wav,0.71,1.23993
+SD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp35.wav,0.84,1.32
+SD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp47.wav,0.89607,1.43
+SD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp55.wav,0.78,1.28
+SD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp66.wav,0.82,1.25
+SD,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp71.wav,0.82,1.2643
+SD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp21.wav,0.79974,1.24
+SD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp30.wav,1.10293,1.52606
+SD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp4.wav,0.64118,1.01
+SD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp43.wav,0.80682,1.19
+SD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp63.wav,0.84328,1.28096
+SD,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp76.wav,1.13808,1.53
+SD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp1.wav,0.5207,0.94993
+SD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp18.wav,0.577,1.02187
+SD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp28.wav,0.58292,1.11
+SD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp49.wav,0.8,1.24168
+SD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp54.wav,0.91,1.35
+SD,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp72.wav,0.9529,1.37673
+SD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp10.wav,0.71688,1.39031
+SD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp36.wav,1.15938,1.89
+SD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp46.wav,0.65,1.33333
+SD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp61.wav,0.88463,1.59
+SD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp70.wav,0.93789,1.63283
+SD,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp73.wav,0.86,1.52965
+SD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp17.wav,0.67307,1.02586
+SD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp27.wav,0.9058,1.26782
+SD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp40.wav,0.74637,1.14722
+SD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp62.wav,0.9583,1.31
+SD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp65.wav,1.04,1.29
+SD,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp7.wav,0.83199,1.14
+SD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp11.wav,0.75952,1.21
+SD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp19.wav,0.80041,1.19
+SD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp25.wav,1.0,1.42
+SD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp39.wav,0.7995,1.32507
+SD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp56.wav,1.07845,1.53
+SD,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp74.wav,0.87,1.28
+SD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp22.wav,0.75881,1.5
+SD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp33.wav,0.98137,1.75
+SD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp48.wav,0.71,1.58
+SD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp6.wav,0.65585,1.20131
+SD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp60.wav,0.98,1.7246
+SD,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp75.wav,1.01,1.8
+SD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp2.wav,0.73298,1.166
+SD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp23.wav,0.63117,1.16051
+SD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp31.wav,0.83,1.29
+SD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp38.wav,0.81951,1.25
+SD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp51.wav,1.34408,1.69
+SD,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp69.wav,0.86357,1.31469
+SD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp13.wav,0.67246,1.25909
+SD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp15.wav,0.67228,1.13924
+SD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp32.wav,0.74699,1.31898
+SD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp50.wav,0.65679,1.22
+SD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp57.wav,0.96026,1.53166
+SD,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp78.wav,0.96761,1.54156
+SD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp16.wav,0.78251,1.10935
+SD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp34.wav,0.85,1.24187
+SD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp44.wav,0.86474,1.19968
+SD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp53.wav,0.8,1.16557
+SD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp77.wav,0.83,1.22787
+SD,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SD\sd_fra_list1_FRcorp9.wav,0.76867,1.07
+SH,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp14.wav,1.1,1.49
+SH,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp26.wav,0.96,1.37008
+SH,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp3.wav,1.05,1.43
+SH,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp41.wav,0.93,1.30685
+SH,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp58.wav,0.72,1.1
+SH,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp67.wav,1.02,1.44
+SH,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp20.wav,1.09,1.45115
+SH,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp29.wav,0.83,1.19841
+SH,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp45.wav,0.99,1.34452
+SH,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp5.wav,0.94,1.29374
+SH,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp52.wav,0.85,1.19424
+SH,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp68.wav,0.66,1.0
+SH,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp12.wav,1.2,1.53
+SH,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp35.wav,1.01,1.34332
+SH,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp47.wav,1.1,1.45
+SH,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp55.wav,0.91,1.27
+SH,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp66.wav,1.07,1.40216
+SH,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp71.wav,0.94,1.31003
+SH,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp21.wav,1.05342,1.32
+SH,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp30.wav,1.01766,1.30025
+SH,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp4.wav,1.09,1.35
+SH,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp43.wav,1.12151,1.38
+SH,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp63.wav,1.11,1.37
+SH,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp76.wav,0.96875,1.27
+SH,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp1.wav,1.63,1.9233
+SH,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp18.wav,1.05,1.36028
+SH,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp28.wav,1.04005,1.36
+SH,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp49.wav,1.16694,1.5
+SH,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp54.wav,1.04231,1.34451
+SH,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp72.wav,0.91107,1.27459
+SH,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp10.wav,0.97737,1.59986
+SH,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp36.wav,1.12,1.72084
+SH,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp46.wav,0.90452,1.48748
+SH,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp61.wav,0.98203,1.55141
+SH,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp70.wav,0.95781,1.6
+SH,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp73.wav,0.99,1.58
+SH,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp17.wav,1.08914,1.31501
+SH,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp27.wav,0.95,1.21
+SH,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp40.wav,0.86892,1.1
+SH,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp62.wav,1.01,1.22
+SH,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp65.wav,0.96,1.18539
+SH,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp7.wav,1.01977,1.27419
+SH,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp11.wav,1.02548,1.36
+SH,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp19.wav,1.08624,1.40658
+SH,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp25.wav,1.29,1.60424
+SH,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp39.wav,1.01,1.34684
+SH,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp56.wav,1.18564,1.51646
+SH,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp74.wav,1.03,1.36
+SH,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp22.wav,0.83,1.44
+SH,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp33.wav,1.13,1.75304
+SH,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp48.wav,1.11,1.71449
+SH,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp6.wav,0.99,1.59
+SH,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp60.wav,0.97374,1.56923
+SH,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp75.wav,0.64,1.26073
+SH,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp2.wav,1.09,1.45
+SH,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp23.wav,1.01,1.34
+SH,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp31.wav,0.85906,1.20361
+SH,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp38.wav,1.17,1.50441
+SH,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp51.wav,0.97,1.34
+SH,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp69.wav,0.9625,1.32
+SH,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp13.wav,1.07,1.47899
+SH,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp15.wav,0.8885,1.32
+SH,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp32.wav,0.91404,1.35
+SH,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp50.wav,1.0518,1.47412
+SH,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp57.wav,0.88694,1.25
+SH,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp78.wav,0.94865,1.36836
+SH,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp16.wav,0.97,1.26003
+SH,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp34.wav,1.13,1.37824
+SH,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp44.wav,0.93,1.17
+SH,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp53.wav,1.01174,1.24311
+SH,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp77.wav,0.86,1.13
+SH,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SH\sh_fra_list1_FRcorp9.wav,1.11,1.31891
+SV,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp14.wav,0.76,1.28655
+SV,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp26.wav,0.75761,1.23
+SV,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp3.wav,1.04,1.55
+SV,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp41.wav,0.62,1.15
+SV,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp58.wav,0.95946,1.48936
+SV,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp67.wav,0.92,1.42
+SV,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp20.wav,0.98,1.43426
+SV,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp29.wav,1.27,1.77706
+SV,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp45.wav,1.05,1.50845
+SV,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp5.wav,1.0936,1.55825
+SV,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp52.wav,1.11,1.57939
+SV,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp68.wav,1.07204,1.49277
+SV,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp12.wav,1.1,1.55
+SV,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp35.wav,0.95,1.44
+SV,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp47.wav,1.15975,1.64
+SV,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp55.wav,1.07,1.56
+SV,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp66.wav,1.07,1.4907
+SV,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp71.wav,1.05707,1.53963
+SV,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp21.wav,1.12498,1.5
+SV,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp30.wav,1.0674,1.5
+SV,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp4.wav,1.27517,1.68
+SV,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp43.wav,1.15577,1.54
+SV,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp63.wav,1.20714,1.61
+SV,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp76.wav,0.92594,1.32416
+SV,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp1.wav,1.6,2.03909
+SV,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp18.wav,0.86,1.26335
+SV,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp28.wav,1.19,1.61
+SV,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp49.wav,1.03699,1.54
+SV,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp54.wav,1.58376,2.09
+SV,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp72.wav,0.63528,1.22097
+SV,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp10.wav,0.59,1.24411
+SV,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp36.wav,1.1,1.76553
+SV,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp46.wav,1.32,2.00832
+SV,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp61.wav,1.1,1.76
+SV,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp70.wav,1.29,1.99
+SV,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp73.wav,0.8984,1.64044
+SV,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp17.wav,1.04869,1.35
+SV,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp27.wav,1.07,1.39666
+SV,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp40.wav,0.72263,1.00856
+SV,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp62.wav,1.11689,1.43
+SV,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp65.wav,1.08398,1.35
+SV,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp7.wav,1.11,1.41226
+SV,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp11.wav,0.67,1.2
+SV,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp19.wav,0.90774,1.31913
+SV,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp25.wav,0.58,1.03
+SV,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp39.wav,0.93,1.36
+SV,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp56.wav,1.13208,1.53975
+SV,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp74.wav,1.04679,1.4494
+SV,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp22.wav,0.90989,1.68
+SV,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp33.wav,0.73,1.49
+SV,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp48.wav,1.02925,1.89994
+SV,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp60.wav,0.99194,1.67376
+SV,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp75.wav,0.92,1.67541
+SV,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp2.wav,0.71777,1.10539
+SV,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp23.wav,0.79679,1.2
+SV,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp31.wav,0.92989,1.39233
+SV,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp38.wav,0.7349,1.14
+SV,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp51.wav,1.03528,1.48974
+SV,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp69.wav,1.07786,1.50978
+SV,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp13.wav,1.53264,2.04
+SV,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp15.wav,0.78486,1.2856
+SV,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp32.wav,0.70271,1.21
+SV,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp50.wav,1.04047,1.58003
+SV,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp57.wav,1.01771,1.51317
+SV,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp78.wav,0.84799,1.33602
+SV,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp16.wav,1.22,1.48862
+SV,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp34.wav,1.03252,1.33407
+SV,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp44.wav,1.14094,1.46003
+SV,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp53.wav,1.1,1.4559
+SV,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp77.wav,0.99,1.31893
+SV,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\SV\sv_fra_list1_FRcorp9.wav,0.63,0.94
+UR,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp14.wav,1.23,1.65988
+UR,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp26.wav,1.08,1.51399
+UR,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp3.wav,1.93,2.58
+UR,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp41.wav,1.23,1.7
+UR,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp58.wav,1.28,1.71
+UR,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp67.wav,1.34,1.76183
+UR,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp20.wav,1.13871,1.5273
+UR,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp29.wav,1.36,1.72767
+UR,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp45.wav,1.09296,1.49998
+UR,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp5.wav,1.33,1.79042
+UR,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp52.wav,1.05,1.461
+UR,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp68.wav,1.13498,1.54571
+UR,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp12.wav,1.12717,1.52412
+UR,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp35.wav,1.00847,1.44
+UR,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp47.wav,1.08384,1.50183
+UR,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp55.wav,1.06,1.48
+UR,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp66.wav,1.21171,1.66919
+UR,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp71.wav,1.01224,1.39
+UR,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp21.wav,1.21843,1.58
+UR,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp30.wav,1.14494,1.45843
+UR,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp4.wav,1.2414,1.70343
+UR,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp43.wav,1.13042,1.46
+UR,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp63.wav,1.07185,1.36
+UR,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp76.wav,1.11028,1.43984
+UR,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp1.wav,1.75618,2.25385
+UR,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp18.wav,1.59,1.97
+UR,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp28.wav,1.38,1.78935
+UR,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp49.wav,1.22,1.60576
+UR,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp54.wav,1.22,1.59728
+UR,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp72.wav,1.09,1.48
+UR,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp10.wav,1.98,2.64
+UR,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp36.wav,1.32395,2.07
+UR,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp46.wav,1.88,2.54537
+UR,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp61.wav,1.31,1.89086
+UR,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp70.wav,1.45202,2.02733
+UR,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp73.wav,1.38,1.96394
+UR,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp17.wav,1.25816,1.51257
+UR,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp27.wav,1.17727,1.42689
+UR,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp40.wav,1.32382,1.63982
+UR,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp62.wav,1.22587,1.51
+UR,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp65.wav,1.3136,1.57244
+UR,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp7.wav,1.28396,1.63
+UR,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp11.wav,1.75,2.1725
+UR,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp19.wav,1.25111,1.61
+UR,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp25.wav,1.35449,1.71943
+UR,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp39.wav,1.26,1.68818
+UR,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp56.wav,1.20579,1.5186
+UR,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp74.wav,1.2354,1.60978
+UR,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp22.wav,1.25,1.9567
+UR,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp33.wav,1.36,2.1037
+UR,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp48.wav,1.36912,2.17
+UR,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp6.wav,1.25357,2.12763
+UR,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp60.wav,1.13,1.82982
+UR,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp75.wav,1.13,1.79
+UR,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp2.wav,0.86932,1.33392
+UR,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp23.wav,1.19,1.56326
+UR,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp31.wav,1.07,1.49168
+UR,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp38.wav,1.33,1.76
+UR,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp51.wav,1.0786,1.49894
+UR,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp69.wav,1.18425,1.64
+UR,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp13.wav,1.35584,1.87224
+UR,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp15.wav,1.36,1.86726
+UR,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp32.wav,1.15422,1.62777
+UR,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp50.wav,1.1616,1.61501
+UR,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp57.wav,1.27332,1.75345
+UR,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp78.wav,1.27429,1.75576
+UR,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp16.wav,1.75,2.03
+UR,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp34.wav,1.26,1.62188
+UR,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp44.wav,1.2016,1.50821
+UR,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp53.wav,1.32,1.62277
+UR,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp77.wav,1.42,1.678
+UR,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UR\ur_rus_list1_FRcorp9.wav,1.52,1.8
+UV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp14.wav,1.45,2.27679
+UV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp26.wav,1.7,2.4
+UV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp3.wav,2.08,2.94877
+UV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp41.wav,1.77694,2.60975
+UV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp58.wav,1.47846,2.13086
+UV,ru,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp67.wav,1.30718,2.05
+UV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp20.wav,1.15,1.68564
+UV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp29.wav,1.41,1.83782
+UV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp45.wav,1.83487,2.28275
+UV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp5.wav,2.04,2.52599
+UV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp52.wav,1.72,2.13723
+UV,ru,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp68.wav,1.28,1.71241
+UV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp12.wav,1.2909,1.81
+UV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp35.wav,1.15103,1.67
+UV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp47.wav,1.51,2.0
+UV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp55.wav,1.23161,1.78
+UV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp66.wav,1.45,1.99
+UV,ru,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp71.wav,1.3191,1.82917
+UV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp21.wav,1.43,1.92038
+UV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp30.wav,1.39953,1.83
+UV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp4.wav,1.83,2.47532
+UV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp43.wav,1.86051,2.22627
+UV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp63.wav,1.2775,1.77384
+UV,ru,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp76.wav,1.65644,2.05193
+UV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp1.wav,1.41,1.87839
+UV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp18.wav,1.39,2.18027
+UV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp28.wav,1.59,2.24648
+UV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp49.wav,1.91,2.47411
+UV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp54.wav,1.38,1.94999
+UV,ru,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp72.wav,1.32835,1.87
+UV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp10.wav,2.01,4.92798
+UV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp36.wav,1.9,3.30112
+UV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp46.wav,1.66276,2.79
+UV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp61.wav,1.3507,2.53
+UV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp70.wav,1.68,2.76952
+UV,ru,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp73.wav,1.53163,3.24315
+UV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp17.wav,1.31561,1.7
+UV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp27.wav,1.90242,2.32
+UV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp40.wav,1.39171,1.77091
+UV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp62.wav,1.52762,1.87
+UV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp65.wav,1.30398,1.63
+UV,ru,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp7.wav,2.44584,2.81364
+UV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp11.wav,1.67958,2.41089
+UV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp19.wav,1.41,2.01606
+UV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp25.wav,1.74,2.32714
+UV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp39.wav,1.61,2.16642
+UV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp56.wav,1.34,1.88367
+UV,ru,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp74.wav,1.33,1.93558
+UV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp22.wav,1.27,2.31382
+UV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp33.wav,2.10885,3.17
+UV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp48.wav,1.7,2.57298
+UV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp6.wav,2.62007,3.79875
+UV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp60.wav,1.3,2.08
+UV,ru,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp75.wav,1.3101,2.23
+UV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp2.wav,1.23,1.77477
+UV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp23.wav,1.3,1.97
+UV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp31.wav,1.58,2.17
+UV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp38.wav,1.74528,2.41317
+UV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp51.wav,1.59,2.12502
+UV,ru,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp69.wav,1.29,2.17
+UV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp13.wav,1.86336,2.53147
+UV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp15.wav,1.4421,2.06
+UV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp32.wav,1.38,1.95359
+UV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp50.wav,1.51208,2.10673
+UV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp57.wav,1.16143,1.69
+UV,ru,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp78.wav,1.43726,2.1222
+UV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp16.wav,1.55,1.84283
+UV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp34.wav,1.36,1.63293
+UV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp44.wav,1.52723,1.78346
+UV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp53.wav,1.33,1.56403
+UV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp77.wav,1.53,2.01528
+UV,ru,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\UV\uv_rus_list1_FRcorp9.wav,1.85,2.08432
+YC,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp14.wav,1.49,2.17694
+YC,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp26.wav,1.25,1.87688
+YC,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp3.wav,1.56,2.2047
+YC,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp41.wav,1.3,1.87626
+YC,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp58.wav,1.13,1.69507
+YC,fr,cache cache,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp67.wav,0.9,1.47
+YC,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp20.wav,1.31,1.77885
+YC,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp29.wav,1.47,1.93966
+YC,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp45.wav,1.08,1.52588
+YC,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp5.wav,1.1,1.61808
+YC,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp52.wav,1.24931,1.81214
+YC,fr,divan,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp68.wav,1.03,1.50782
+YC,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp12.wav,1.32585,1.89458
+YC,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp35.wav,1.25268,1.76306
+YC,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp47.wav,1.17,1.68997
+YC,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp55.wav,1.3759,1.86889
+YC,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp66.wav,0.94944,1.44
+YC,fr,garage,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp71.wav,0.91,1.37732
+YC,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp21.wav,1.19962,1.61
+YC,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp30.wav,1.3547,1.85828
+YC,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp4.wav,1.09461,1.62099
+YC,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp43.wav,1.02869,1.4699
+YC,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp63.wav,1.51595,1.94477
+YC,fr,hier,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp76.wav,1.04829,1.47844
+YC,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp1.wav,2.38593,2.94
+YC,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp18.wav,1.2,1.68206
+YC,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp28.wav,1.47,1.94
+YC,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp49.wav,1.1557,1.63937
+YC,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp54.wav,1.0465,1.52
+YC,fr,j'en chie,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp72.wav,1.28,1.75483
+YC,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp10.wav,1.3,2.10955
+YC,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp36.wav,1.5403,2.3296
+YC,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp46.wav,1.56,2.27513
+YC,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp61.wav,0.84,1.63488
+YC,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp70.wav,0.84,1.55375
+YC,fr,juxtaposer,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp73.wav,1.07,1.79376
+YC,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp17.wav,1.44862,1.82354
+YC,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp27.wav,1.32405,1.65214
+YC,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp40.wav,1.12818,1.44
+YC,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp62.wav,1.22519,1.58299
+YC,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp65.wav,1.06,1.33956
+YC,fr,louche,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp7.wav,1.04672,1.49685
+YC,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp11.wav,1.68,2.20268
+YC,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp19.wav,1.24837,1.67875
+YC,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp25.wav,1.66,2.2
+YC,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp39.wav,1.32,1.79422
+YC,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp56.wav,1.15,1.64
+YC,fr,pas ceux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp74.wav,0.98474,1.43
+YC,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp22.wav,1.33385,2.18397
+YC,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp33.wav,1.25641,2.11052
+YC,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp48.wav,1.08615,1.87663
+YC,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp6.wav,1.03922,1.96
+YC,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp60.wav,1.01044,1.87203
+YC,fr,pour gabriel,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp75.wav,1.07686,1.84
+YC,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp2.wav,1.54025,2.02483
+YC,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp23.wav,1.40734,1.88991
+YC,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp31.wav,1.22254,1.72
+YC,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp38.wav,1.06935,1.5412
+YC,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp51.wav,1.11964,1.6094
+YC,fr,sérieux,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp69.wav,0.81862,1.29032
+YC,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp13.wav,1.52746,2.1219
+YC,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp15.wav,1.54,2.16841
+YC,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp32.wav,1.34147,1.90458
+YC,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp50.wav,1.06149,1.65487
+YC,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp57.wav,1.66413,2.25
+YC,fr,tsarine,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp78.wav,1.20706,1.75254
+YC,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp16.wav,1.33,1.74371
+YC,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp34.wav,1.22,1.66
+YC,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp44.wav,1.08,1.41453
+YC,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp53.wav,1.35186,1.76885
+YC,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp77.wav,1.06,1.45877
+YC,fr,tulle,ru-fr_interference\2\wav_et_textgrids\FRcorp_textgrids_only\YC\yc_fra_list1_FRcorp9.wav,1.36187,1.73
