@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = gdrive://1L-qMSxBEc4_vWK1ugt4RHVyWo-7kfI2c
+    url = C:\Users\manup\dvc-remote-lab5
