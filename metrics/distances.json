@@ -1,0 +1,46 @@
+{
+  "float64": {
+    "intra_speaker_mean": 0.20808908745076118,
+    "inter_speaker_mean": 0.2706537079898534,
+    "ratio": 0.7688388568412382,
+    "n_intra_pairs": 3415,
+    "n_inter_pairs": 73764,
+    "ordering_preserved": true,
+    "disk_space_bytes": 8410314,
+    "disk_space_mb": 8.41,
+    "compute_time_seconds": 0.88
+  },
+  "float32": {
+    "intra_speaker_mean": 0.20808908745076118,
+    "inter_speaker_mean": 0.2706537079898534,
+    "ratio": 0.7688388568412382,
+    "n_intra_pairs": 3415,
+    "n_inter_pairs": 73764,
+    "ordering_preserved": true,
+    "disk_space_bytes": 4210890,
+    "disk_space_mb": 4.21,
+    "compute_time_seconds": 0.81
+  },
+  "float16": {
+    "intra_speaker_mean": 0.2080889733386672,
+    "inter_speaker_mean": 0.27065369391428235,
+    "ratio": 0.76883847520873,
+    "n_intra_pairs": 3415,
+    "n_inter_pairs": 73764,
+    "ordering_preserved": true,
+    "disk_space_bytes": 2111178,
+    "disk_space_mb": 2.11,
+    "compute_time_seconds": 0.81
+  },
+  "int8": {
+    "intra_speaker_mean": 0.20814897658642775,
+    "inter_speaker_mean": 0.2707038785111846,
+    "ratio": 0.7689176000403249,
+    "n_intra_pairs": 3415,
+    "n_inter_pairs": 73764,
+    "ordering_preserved": true,
+    "disk_space_bytes": 1072502,
+    "disk_space_mb": 1.07,
+    "compute_time_seconds": 0.88
+  }
+}
