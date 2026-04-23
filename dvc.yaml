@@ -37,6 +37,8 @@ stages:
       - data/pipeline/manifest.csv
     outs:
       - data/pipeline/distances.npz
+      - metrics/distances.json:
+          cache: false
 
   visualise:
     cmd: python src/visualise.py
@@ -50,3 +52,5 @@ stages:
       - figures/fig3_ratio.png
       - figures/fig4_efficiency.png
       - figures/fig5_kde_differences.png
+      - metrics/word_rankings.txt:
+          cache: false

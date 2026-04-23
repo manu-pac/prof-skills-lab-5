@@ -129,3 +129,7 @@ stages:
       hash: md5
       md5: 1e421a4ae4190af7cfcf0e75554a5432
       size: 134032
+    - path: metrics/word_rankings.txt
+      hash: md5
+      md5: 042404702272de79255a3015a89b51a7
+      size: 8720
