@@ -1,0 +1,131 @@
+schema: '2.0'
+stages:
+  prepare_data:
+    cmd: python src/prepare_data.py
+    deps:
+    - path: ru-fr_interference
+      hash: md5
+      md5: e295a0af2cab1cbc4d65701885169fb3.dir
+      size: 738309534
+      nfiles: 5930
+    - path: src/prepare_data.py
+      hash: md5
+      md5: dda8555470a982096689bcfa93df10c2
+      size: 3088
+    outs:
+    - path: data/pipeline/manifest.csv
+      hash: md5
+      md5: 8ff368c77de8132e1e8cadd62d41ec8d
+      size: 160450
+  extract_features:
+    cmd: python src/extract_features.py
+    deps:
+    - path: data/pipeline/manifest.csv
+      hash: md5
+      md5: 8ff368c77de8132e1e8cadd62d41ec8d
+      size: 160450
+    - path: src/extract_features.py
+      hash: md5
+      md5: b7ca78ebd01aaf5d8b39dbdfa7271d9d
+      size: 2543
+    outs:
+    - path: data/pipeline/representations/float64/representations.npz
+      hash: md5
+      md5: 907fce79b642c42fb115dec1cdb0a933
+      size: 8410314
+  convert_precision:
+    cmd: python src/convert_precision.py
+    deps:
+    - path: data/pipeline/representations/float64/representations.npz
+      hash: md5
+      md5: 907fce79b642c42fb115dec1cdb0a933
+      size: 8410314
+    - path: src/convert_precision.py
+      hash: md5
+      md5: 169282be7385542b29bf4b770b2f73b1
+      size: 3824
+    outs:
+    - path: data/pipeline/representations/float16/representations.npz
+      hash: md5
+      md5: 66ad6dcfee219ef9f7100599ef1db01a
+      size: 2111178
+    - path: data/pipeline/representations/float32/representations.npz
+      hash: md5
+      md5: 1a8991be8ed67d71dea8fb38048274b9
+      size: 4210890
+    - path: data/pipeline/representations/int8/representations.npz
+      hash: md5
+      md5: 3b37170609ecc01ff5e496a29f9f4090
+      size: 1072502
+  compute_distances:
+    cmd: python src/compute_distances.py
+    deps:
+    - path: data/pipeline/manifest.csv
+      hash: md5
+      md5: 8ff368c77de8132e1e8cadd62d41ec8d
+      size: 160450
+    - path: data/pipeline/representations/float16/representations.npz
+      hash: md5
+      md5: 66ad6dcfee219ef9f7100599ef1db01a
+      size: 2111178
+    - path: data/pipeline/representations/float32/representations.npz
+      hash: md5
+      md5: 1a8991be8ed67d71dea8fb38048274b9
+      size: 4210890
+    - path: data/pipeline/representations/float64/representations.npz
+      hash: md5
+      md5: 907fce79b642c42fb115dec1cdb0a933
+      size: 8410314
+    - path: data/pipeline/representations/int8/representations.npz
+      hash: md5
+      md5: 3b37170609ecc01ff5e496a29f9f4090
+      size: 1072502
+    - path: src/compute_distances.py
+      hash: md5
+      md5: 774561553d66eeec4f84fa32a6bfebbd
+      size: 7445
+    outs:
+    - path: data/pipeline/distances.npz
+      hash: md5
+      md5: 34a287e5fe35233d06ada688f7cde952
+      size: 1703826
+    - path: metrics/distances.json
+      hash: md5
+      md5: c234d1c15c4d755cf51a76a7838bd436
+      size: 2684
+  visualise:
+    cmd: python src/visualise.py
+    deps:
+    - path: data/pipeline/distances.npz
+      hash: md5
+      md5: 34a287e5fe35233d06ada688f7cde952
+      size: 1703826
+    - path: metrics/distances.json
+      hash: md5
+      md5: c234d1c15c4d755cf51a76a7838bd436
+      size: 2684
+    - path: src/visualise.py
+      hash: md5
+      md5: 002f1e2791dcf425c8f5cb99d1e0c8dd
+      size: 13894
+    outs:
+    - path: figures/fig1_kde_distributions.png
+      hash: md5
+      md5: 441b26fee9d4a11b11f257c838153d15
+      size: 175131
+    - path: figures/fig2_means_barplot.png
+      hash: md5
+      md5: a4b11ad954b1aa44d23196561a435e32
+      size: 44425
+    - path: figures/fig3_ratio.png
+      hash: md5
+      md5: a8a0ade58d53bc60378f5c79887977a7
+      size: 49523
+    - path: figures/fig4_efficiency.png
+      hash: md5
+      md5: 3403e21c34fbac9ba75de23da01dfd51
+      size: 58311
+    - path: figures/fig5_kde_differences.png
+      hash: md5
+      md5: 1e421a4ae4190af7cfcf0e75554a5432
+      size: 134032

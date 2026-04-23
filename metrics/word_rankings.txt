@@ -1,0 +1,184 @@
+════════════════════════════════════════════════════════
+  float64 (ref.)
+════════════════════════════════════════════════════════
+  Ordering check (intra < inter per word):
+    ✓  cache cache
+    ✓  divan
+    ✓  garage
+    ✓  hier
+    ✓  j'en chie
+    ✓  juxtaposer
+    ✓  louche
+    ✓  pas ceux
+    ✓  pour gabriel
+    ✓  sérieux
+    ✓  tsarine
+    ✓  tulle
+  → Global ordering preserved: True
+────────────────────────────────────────────────────────
+  Intra-speaker ranking (closest → furthest):
+     1. juxtaposer            mean=0.054036
+     2. pour gabriel          mean=0.094316
+     3. garage                mean=0.188169
+     4. pas ceux              mean=0.193526
+     5. tsarine               mean=0.194456
+     6. cache cache           mean=0.198006
+     7. divan                 mean=0.203715
+     8. sérieux               mean=0.222552
+     9. tulle                 mean=0.270813
+    10. hier                  mean=0.283406
+    11. j'en chie             mean=0.292870
+    12. louche                mean=0.299207
+────────────────────────────────────────────────────────
+  Inter-speaker ranking (closest → furthest):
+     1. juxtaposer            mean=0.082735
+     2. pour gabriel          mean=0.164852
+     3. cache cache           mean=0.220175
+     4. garage                mean=0.229515
+     5. divan                 mean=0.258595
+     6. tsarine               mean=0.265030
+     7. pas ceux              mean=0.267544
+     8. sérieux               mean=0.302244
+     9. tulle                 mean=0.337042
+    10. louche                mean=0.352629
+    11. hier                  mean=0.373480
+    12. j'en chie             mean=0.392147
+
+════════════════════════════════════════════════════════
+  float32
+════════════════════════════════════════════════════════
+  Ordering check (intra < inter per word):
+    ✓  cache cache
+    ✓  divan
+    ✓  garage
+    ✓  hier
+    ✓  j'en chie
+    ✓  juxtaposer
+    ✓  louche
+    ✓  pas ceux
+    ✓  pour gabriel
+    ✓  sérieux
+    ✓  tsarine
+    ✓  tulle
+  → Global ordering preserved: True
+────────────────────────────────────────────────────────
+  Intra-speaker ranking (closest → furthest):
+     1. juxtaposer            mean=0.054036
+     2. pour gabriel          mean=0.094316
+     3. garage                mean=0.188169
+     4. pas ceux              mean=0.193526
+     5. tsarine               mean=0.194456
+     6. cache cache           mean=0.198006
+     7. divan                 mean=0.203715
+     8. sérieux               mean=0.222552
+     9. tulle                 mean=0.270813
+    10. hier                  mean=0.283406
+    11. j'en chie             mean=0.292870
+    12. louche                mean=0.299207
+────────────────────────────────────────────────────────
+  Inter-speaker ranking (closest → furthest):
+     1. juxtaposer            mean=0.082735
+     2. pour gabriel          mean=0.164852
+     3. cache cache           mean=0.220175
+     4. garage                mean=0.229515
+     5. divan                 mean=0.258595
+     6. tsarine               mean=0.265030
+     7. pas ceux              mean=0.267544
+     8. sérieux               mean=0.302244
+     9. tulle                 mean=0.337042
+    10. louche                mean=0.352629
+    11. hier                  mean=0.373480
+    12. j'en chie             mean=0.392147
+
+════════════════════════════════════════════════════════
+  float16
+════════════════════════════════════════════════════════
+  Ordering check (intra < inter per word):
+    ✓  cache cache
+    ✓  divan
+    ✓  garage
+    ✓  hier
+    ✓  j'en chie
+    ✓  juxtaposer
+    ✓  louche
+    ✓  pas ceux
+    ✓  pour gabriel
+    ✓  sérieux
+    ✓  tsarine
+    ✓  tulle
+  → Global ordering preserved: True
+────────────────────────────────────────────────────────
+  Intra-speaker ranking (closest → furthest):
+     1. juxtaposer            mean=0.054016
+     2. pour gabriel          mean=0.094360
+     3. garage                mean=0.188232
+     4. pas ceux              mean=0.193481
+     5. tsarine               mean=0.194580
+     6. cache cache           mean=0.197998
+     7. divan                 mean=0.203613
+     8. sérieux               mean=0.222534
+     9. tulle                 mean=0.270752
+    10. hier                  mean=0.283447
+    11. j'en chie             mean=0.292725
+    12. louche                mean=0.299316
+────────────────────────────────────────────────────────
+  Inter-speaker ranking (closest → furthest):
+     1. juxtaposer            mean=0.082703
+     2. pour gabriel          mean=0.164917
+     3. cache cache           mean=0.220215
+     4. garage                mean=0.229492
+     5. divan                 mean=0.258545
+     6. tsarine               mean=0.265137
+     7. pas ceux              mean=0.267578
+     8. sérieux               mean=0.302246
+     9. tulle                 mean=0.337158
+    10. louche                mean=0.352539
+    11. hier                  mean=0.373535
+    12. j'en chie             mean=0.392090
+
+════════════════════════════════════════════════════════
+  int8
+════════════════════════════════════════════════════════
+  Ordering check (intra < inter per word):
+    ✓  cache cache
+    ✓  divan
+    ✓  garage
+    ✓  hier
+    ✓  j'en chie
+    ✓  juxtaposer
+    ✓  louche
+    ✓  pas ceux
+    ✓  pour gabriel
+    ✓  sérieux
+    ✓  tsarine
+    ✓  tulle
+  → Global ordering preserved: True
+────────────────────────────────────────────────────────
+  Intra-speaker ranking (closest → furthest):
+     1. juxtaposer            mean=0.054117
+     2. pour gabriel          mean=0.094430
+     3. garage                mean=0.188226
+     4. pas ceux              mean=0.193603
+     5. tsarine               mean=0.194502
+     6. cache cache           mean=0.198071
+     7. divan                 mean=0.203742
+     8. sérieux               mean=0.222569
+     9. tulle                 mean=0.270860
+    10. hier                  mean=0.283484
+    11. j'en chie             mean=0.292924
+    12. louche                mean=0.299263
+────────────────────────────────────────────────────────
+  Inter-speaker ranking (closest → furthest):
+     1. juxtaposer            mean=0.082799
+     2. pour gabriel          mean=0.164960
+     3. cache cache           mean=0.220252
+     4. garage                mean=0.229565
+     5. divan                 mean=0.258599
+     6. tsarine               mean=0.265061
+     7. pas ceux              mean=0.267599
+     8. sérieux               mean=0.302278
+     9. tulle                 mean=0.337099
+    10. louche                mean=0.352655
+    11. hier                  mean=0.373549
+    12. j'en chie             mean=0.392176
+

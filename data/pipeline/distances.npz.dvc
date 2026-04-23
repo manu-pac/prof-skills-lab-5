@@ -1,5 +1,0 @@
-outs:
-- md5: 04bfd3f925c75cec30997f99c5bbf87b
-  size: 2472940
-  hash: md5
-  path: distances.npz

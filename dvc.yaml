@@ -1,0 +1,52 @@
+stages:
+  prepare_data:
+    cmd: python src/prepare_data.py
+    deps:
+      - src/prepare_data.py
+      - ru-fr_interference
+    outs:
+      - data/pipeline/manifest.csv:
+          cache: false
+
+  extract_features:
+    cmd: python src/extract_features.py
+    deps:
+      - src/extract_features.py
+      - data/pipeline/manifest.csv
+    outs:
+      - data/pipeline/representations/float64/representations.npz
+
+  convert_precision:
+    cmd: python src/convert_precision.py
+    deps:
+      - src/convert_precision.py
+      - data/pipeline/representations/float64/representations.npz
+    outs:
+      - data/pipeline/representations/float32/representations.npz
+      - data/pipeline/representations/float16/representations.npz
+      - data/pipeline/representations/int8/representations.npz
+
+  compute_distances:
+    cmd: python src/compute_distances.py
+    deps:
+      - src/compute_distances.py
+      - data/pipeline/representations/float64/representations.npz
+      - data/pipeline/representations/float32/representations.npz
+      - data/pipeline/representations/float16/representations.npz
+      - data/pipeline/representations/int8/representations.npz
+      - data/pipeline/manifest.csv
+    outs:
+      - data/pipeline/distances.npz
+
+  visualise:
+    cmd: python src/visualise.py
+    deps:
+      - src/visualise.py
+      - data/pipeline/distances.npz
+      - metrics/distances.json
+    outs:
+      - figures/fig1_kde_distributions.png
+      - figures/fig2_means_barplot.png
+      - figures/fig3_ratio.png
+      - figures/fig4_efficiency.png
+      - figures/fig5_kde_differences.png

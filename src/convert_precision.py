@@ -4,7 +4,7 @@ convert_precision.py
 Takes the float64 reference representations and converts them to:
   - float32
   - float16
-  - int8  (symmetric per-vector min-max quantisation)
+  - int8 (symmetric per-vector min-max quantisation)
 
 For int8, I also save the scale factors needed to reconstruct
 approximate float values for distance computation.
@@ -40,7 +40,7 @@ def convert_float16(reps, indices):
 def quantise_int8(reps):
     n_vectors, n_dims = reps.shape
     # n_vectors = 1367 (one per word occurrence)
-    # n_dims    = 768  (wav2vec2-base hidden size)
+    # n_dims = 768  (wav2vec2-base hidden size)
 
     # Allocate output arrays
     reps_int8 = np.zeros((n_vectors, n_dims), dtype=np.int8)

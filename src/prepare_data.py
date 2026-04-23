@@ -11,7 +11,7 @@ import re
 import pandas as pd
 import tgt
 
-# ── Paths ──────────────────────────────────────────────────────────────────
+# Paths
 CORPUS_ROOT   = os.path.join("ru-fr_interference", "2")
 METADATA_PATH = os.path.join(CORPUS_ROOT, "metadata_RUFR.csv")
 SPEAKERS_DIR  = os.path.join(CORPUS_ROOT, "wav_et_textgrids", "FRcorp_textgrids_only")

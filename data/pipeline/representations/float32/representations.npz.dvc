@@ -1,5 +1,0 @@
-outs:
-- md5: 1a8991be8ed67d71dea8fb38048274b9
-  size: 4210890
-  hash: md5
-  path: representations.npz
